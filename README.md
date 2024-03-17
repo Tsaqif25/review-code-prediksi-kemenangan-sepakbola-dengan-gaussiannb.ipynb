@@ -1,4 +1,5 @@
 # review-code-prediksi-kemenangan-sepakbola-dengan-gaussiannb.ipynb
+kaggle kernels pull baladikaalhariri/prediksi-kemenangan-sepakbola-dengan-gaussiannb
 
 
 
